@@ -1,4 +1,4 @@
-package com.valerastudy.Exception;
+package com.valerastudy.Exceptions;
 
 public class MainExc {
 
